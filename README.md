@@ -1,5 +1,6 @@
 # Excel Salary Dashboard
 
+![Descripción del GIF](images/1_Salary_Dashboard_Final_Dashboard.gif)
 
 ## Introduction
 
