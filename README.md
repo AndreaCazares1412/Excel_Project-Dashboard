@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This project was developed as part of the **[Excel for Data Analytics - Full Course by Luke Barousse](https://www.youtube.com/watch?v=pCJ15nGFgVg&t=5352s)**. The goal of this dashboard is to provide job seekers with the tools to explore salaries for various positions, helping them to make informed decisions and ensure they are being fairly compensated.
+The goal of this dashboard is to provide job seekers with the tools to explore salaries for various positions, helping them to make informed decisions and ensure they are being fairly compensated.
 
 The data used in this project was sourced from the course materials, offering a comprehensive look at job titles, salaries, locations, and the skills required for each role. This dashboard serves as a practical example of how to analyze and visualize salary trends using **Excel**, a powerful tool for data analysis.
 
@@ -108,8 +108,8 @@ IF(
 ![GIF](images/5_Salary_Dashboard_Data_Validation.gif)
 
   ## Conclusion
-This dashboard was created to provide an overview of salary trends across various data-related job titles. Using data from the **[Excel for Data Analytics - Full Course by Luke Barousse](https://www.youtube.com/watch?v=pCJ15nGFgVg&t=5352s)**, this dashboard offers valuable insights that help users make informed decisions about their career paths. Through this project, I explored Excel's functionalities to understand how location and job type impact salaries, while reinforcing my knowledge and applying the skills I learned to create a useful and practical tool.
+This dashboard was created to provide an overview of salary trends across various data-related job titles, it offers valuable insights that help users make informed decisions about their career paths. Through this project, I explored Excel's functionalities to understand how location and job type impact salaries, while reinforcing my knowledge and applying the skills I learned to create a useful and practical tool.
 
 
 **Acknowledgments**
-- This project was created as part of the "Excel for Data Analytics - Full Course" by Luke Barousse.
+- This project was created as part of the **[Excel for Data Analytics - Full Course by Luke Barousse](https://www.youtube.com/watch?v=pCJ15nGFgVg&t=5352s)**
