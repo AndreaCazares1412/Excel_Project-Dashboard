@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-![Descripción del GIF](images/1_Salary_Dashboard_Final_Dashboard.gif)
+![GIF](images/1_Salary_Dashboard_Final_Dashboard.gif)
 
 ## Introduction
 
@@ -9,7 +9,7 @@ This project was developed as part of the **[Excel for Data Analytics - Full Cou
 The data used in this project was sourced from the course materials, offering a comprehensive look at job titles, salaries, locations, and the skills required for each role. This dashboard serves as a practical example of how to analyze and visualize salary trends using **Excel**, a powerful tool for data analysis.
 
 ### Dashboard File
-My final dashboard is in 
+My final dashboard is in [1_Salary_Dashboard.xlsx](.1_Salary_Dashboard.xlsx.icloud)
 
 ### Excel Skills Used
 The following Excel skills were utilized for analysis:
@@ -32,7 +32,8 @@ The dataset used for this project contains real-world data science job informati
 
 ### 📊 Data Science Job Salaries - Bar Chart
 
-image
+![Chart](images/2_Salary_Dashboard_Chart1.png)
+
 
 - 🛠️ Excel Features: Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - 🎨 Design Choice: Horizontal bar chart for visual comparison of median salaries.
@@ -40,6 +41,8 @@ image
 - 💡 Insights Gained: This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
 ### 🗺️ Country Median Salaries - Map Chart
+
+![GIF](images/3_Salary_Dashboard_Country_Map.gif)
 
 - 🛠️ Excel Features: Utilized Excel's map chart feature to plot median salaries globally.
 - 🎨 Design Choice: Color-coded map to visually differentiate salary levels across regions.
@@ -70,11 +73,11 @@ IF(
 
 🍽️ Background Table
 
-image
+![Chart](images/4_Salary_Dashboard_Screenshot1.png)
 
 📉 Dashboard Implementation
 
-image
+![Chart](images/8_Salary_Dashboard_Job_Title.png)
 
 
 ### ⏰ Count of Job Schedule Type
@@ -87,11 +90,12 @@ image
 
 🍽️ Background Table
 
-image
+![Chart](images/6_Salary_Dashboard_Screenshot2.png)
+
 
 📉 Dashboard Implementation:
 
-image
+![Chart](images/7_Salary_Dashboard_Type.png)
 
 ### ❎ Data Validation
 
@@ -101,7 +105,7 @@ image
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
  
-  image
+![GIF](images/5_Salary_Dashboard_Data_Validation.gif)
 
   ## Conclusion
 This dashboard was created to provide an overview of salary trends across various data-related job titles. Using data from the **[Excel for Data Analytics - Full Course by Luke Barousse](https://www.youtube.com/watch?v=pCJ15nGFgVg&t=5352s)**, this dashboard offers valuable insights that help users make informed decisions about their career paths. Through this project, I explored Excel's functionalities to understand how location and job type impact salaries, while reinforcing my knowledge and applying the skills I learned to create a useful and practical tool.
